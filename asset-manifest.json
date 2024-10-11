@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GHOUSEPASHAA/World-news/static/css/main.4b1c4cff.css",
+    "main.js": "/GHOUSEPASHAA/World-news/static/js/main.b17d2e76.js",
+    "static/js/453.0096f0b6.chunk.js": "/GHOUSEPASHAA/World-news/static/js/453.0096f0b6.chunk.js",
+    "index.html": "/GHOUSEPASHAA/World-news/index.html",
+    "main.4b1c4cff.css.map": "/GHOUSEPASHAA/World-news/static/css/main.4b1c4cff.css.map",
+    "main.b17d2e76.js.map": "/GHOUSEPASHAA/World-news/static/js/main.b17d2e76.js.map",
+    "453.0096f0b6.chunk.js.map": "/GHOUSEPASHAA/World-news/static/js/453.0096f0b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1c4cff.css",
+    "static/js/main.b17d2e76.js"
+  ]
+}
